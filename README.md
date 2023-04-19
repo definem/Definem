@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @definem
 - 🌱 I am currently learning the most popular programming languages.
 - 💞️ And i haven't yet planned who and what I will collaborate with ...
-- About: Have a quality solitude instead of my fake crowd.
