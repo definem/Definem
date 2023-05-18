@@ -9,7 +9,7 @@
 </br>
 - 😅 Extra infos:
 - 🎊 I took a test on the linux tutorial on the linkedin social media and the result is as follows:
-(https://github.com/definem/Definem/assets/120991965/3a8bc8b9-34a6-4820-b279-a20a49a21e7d)
+![image](https://github.com/definem/Definem/assets/120991965/83b73a73-799c-476e-91b1-3156a8b639ef)
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=definem&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats) -->
 
