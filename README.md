@@ -1,4 +1,6 @@
-## Definem | Developer
+## Definem | Developer 
+<\br>
+Accountiladan ba'zi narsalani chopdim. Rozi bolasila
 </br>
 <h3 align="center">
   Welcome to <b><a href="https://definem.vercel.app/">Definem</a></b>'s profile!
