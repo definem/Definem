@@ -3,16 +3,16 @@
 
 <div>
    <a href="[https://github.com/definem](https://github.com/definem)">
-   <img align="center" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddiqun03&layout=compact&langs_count=16&theme=dracula"/>
    <img align="center" height="165" src="https://github-readme-stats.vercel.app/api?username=definem&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
   
-
+</br>
 - 😅 Extra infos:
 - 🎊 I took a test on the linux tutorial on the linkedin social media and the result is as follows:
+</br>
 ![image](https://github.com/definem/Definem/assets/120991965/c970b7a2-4c02-41d0-b3b8-d24b76cb23ab)
   
-<table>
+<!-- <table>
 
   <tr>
     <td align="center" width="96"> 
@@ -42,6 +42,6 @@
       <br>MySQL
     </td>
     </tr>
-</table>
+</table> -->
 </div>
 
