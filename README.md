@@ -1,5 +1,4 @@
 ## Definem | Developer 
-<\br>
 Accountiladan ba'zi narsalani chopdim. Rozi bolasila
 </br>
 <h3 align="center">
