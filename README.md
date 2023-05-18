@@ -1,4 +1,4 @@
-## Hi, I am Definem! 
+## Definem | Developer
 </br>
 
 <div>
@@ -9,39 +9,16 @@
 </br>
 - 😅 Extra infos:
 - 🎊 I took a test on the linux tutorial on the linkedin social media and the result is as follows:
-</br>
 ![image](https://github.com/definem/Definem/assets/120991965/c970b7a2-4c02-41d0-b3b8-d24b76cb23ab)
-  
-<!-- <table>
 
-  <tr>
-    <td align="center" width="96"> 
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="48" height="48" alt="GitHub" />
-      <br>Github
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br>HTML
-    </td>
-    </tr>
-    <tr>
-     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br>MySQL
-    </td>
-    </tr>
-</table> -->
-</div>
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=definem&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats) -->
 
+<!-- [![CodeTime badge](https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D5497%26project%3D%26in%3D0)](https://codetime.dev) -->
+
+<!-- ### 📈 GitHub Activity Graph:
+[![Definem's activity graph](https://activity-graph.herokuapp.com/graph?username=definem&theme=react-dark)](https://github.com/definem/github-readme-activity-graph) -->
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/definem/count.svg" />
+</p>
