@@ -25,13 +25,32 @@
   
   
 <p align="center">
-   😅 Extra infos:
-</br>
-I am a good Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uzbekistan.
-</br>
-🎊 I took a test on the linux tutorial on the linkedin social media.
+ 
+  <p>∙ Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uzbekistan.</p>
+  <ul>
+      ⚪ 🍁 I'm currently learning mostly frontend and I'm also learning the most popular programming languages.
+  </ul>
+  <ul>
+      ⚪ 🏅 And I want to become an expert programmer in whatever field I choose in the future ...
+  </ul>
+      <p>∙ ⚡️ The fun facts: </p>
+  <ul>
+      ⚫ I like and I can play piano 🎹
+  </ul>
+  <ul>
+      ⚫ I am also interested in mobilography🎥
+  </ul>
+  <ul>
+      ⚫ A person who isn't like everyone else🛸
+  </ul>
+       <p>∙ 😅 Extra infos: </p>
+  <ul>
+      🎊 I took a test on the linux tutorial on the linkedin social media.
+  </ul>
+
 </p>
 
+</br>
 
 <p align="center"> 
   Visitor count<br>
