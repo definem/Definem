@@ -27,6 +27,8 @@
 <p align="center">
    😅 Extra infos:
 </br>
+I am a good Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uzbekistan.
+</br>
 🎊 I took a test on the linux tutorial on the linkedin social media.
 </p>
 
