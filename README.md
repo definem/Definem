@@ -1,5 +1,5 @@
 ## Definem | Developer 
-Accountiladan ba'zi narsalani chopdim. Rozi bolasila
+Accountiladan ba'zi narsalani chopdim 😅. Rozi bo'lasila😅😅
 </br>
 <h3 align="center">
   Welcome to <b><a href="https://definem.vercel.app/">Definem</a></b>'s profile!
