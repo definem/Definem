@@ -36,13 +36,13 @@
   </ul>
       <p>∙ ⚡️ The fun facts: </p>
   <ul>
-      ⚫ I like and I can play piano 🎹
+      ⚫ I like and can play piano 🎹
   </ul>
   <ul>
       ⚫ I am also interested in mobilography🎥
   </ul>
   <ul>
-      ⚫ A person who isn't like everyone else🛸
+      ⚫ A person who isn't like anyone else🛸
   </ul>
        <p>∙ 😅 Extra infos: </p>
   <ul>
