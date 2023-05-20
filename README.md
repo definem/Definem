@@ -1,8 +1,8 @@
 ## Definem | Developer 
 
-<h2>Englısh</h2>
+<h3>English</h3>
 
-(Accountiladan ba'zi narsalani chopdim 😅. Rozi bo'lasila😅😅)
+(I got something from your account.😅. I hope u'll agree😅😅)
 </br>
 <h3 align="center">
   Welcome to <b><a href="https://definem.vercel.app/">Definem</a></b>'s profile!
@@ -58,7 +58,7 @@
 
 ## Definem | Developer 
 
-<h2>Turkish</h2>
+<h3>Turkish</h3>
 
 </br>
 <h3 align="center">
@@ -69,7 +69,7 @@
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=İyi%20Good%20bir%20geliştiriciyim;En%20ünlü%20ve%20popüler;%20Programlama%20dillerinin;%20öğrencisiyim&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=İyi%20bir%20geliştiriciyim;En%20ünlü%20ve%20popüler;%20Programlama%20dillerinin;%20öğrencisiyim&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
   
 <!-- <p align="center">
