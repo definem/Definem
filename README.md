@@ -62,7 +62,7 @@
 
 </br>
 <h3 align="center">
-  Definem<b>'im hesabına</b><a href="https://definem.vercel.app/">hoş geldiniz!</a>
+  <a href="https://definem.vercel.app/">Definem</a> <b>'im hesabına</b> hoş geldiniz!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
