@@ -2,7 +2,6 @@
 
 <h3>English</h3>
 
-(I got something from your account.😅. I hope u'll agree😅😅)
 </br>
 <h3 align="center">
   Welcome to <b><a href="https://definem.vercel.app/">Definem</a></b>'s profile!
