@@ -1,7 +1,6 @@
 ## Definem | Developer 
 
 <h3>English</h3>
-
 </br>
 <h3 align="center">
   Welcome to <b><a href="https://definem.vercel.app/">Definem</a></b>'s profile!
@@ -58,7 +57,6 @@
 ## Definem | Developer 
 
 <h3>Turkish</h3>
-
 </br>
 <h3 align="center">
   <a href="https://definem.vercel.app/">Definem</a> <b>'in hesabına</b> hoş geldiniz!
