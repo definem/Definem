@@ -49,6 +49,80 @@
 
 </br>
 
+<!-- <div style="padding-left: 23%;">
+    <table>
+  <tr>
+    <td align="center" width="96">
+      <img
+        src="https://techstack-generator.vercel.app/js-icon.svg"
+        alt="icon"
+        width="65"
+        height="65"
+      />
+      <br />
+      <p style="color: rgb(227, 227, 44)">Javascript</p>
+    </td>
+    <td align="center" width="96" style="padding-left: 6%">
+      <img
+        src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"
+        width="48"
+        height="48"
+        alt="Git"
+      />
+      <br />
+      <br />
+      <p style="color: orangered">Git</p>
+    </td>
+    <td align="center" width="96" style="padding-left: 10%">
+      <img
+        src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png"
+        width="48"
+        height="48"
+        alt="GitHub"
+      />
+      <br />
+      <br />
+      <p style="color: black">GitHub</p>
+    </td>
+    <td align="center" width="96" style="padding-left: 13%">
+      <img
+        src="https://skillicons.dev/icons?i=html"
+        width="48"
+        height="48"
+        alt="HTML"
+      />
+      <br />
+      <br />
+      <p style="color: chocolate">HTML</p>
+    </td>
+    <td align="center" width="96" style="padding-left: 15%">
+      <img
+        src="https://skillicons.dev/icons?i=css"
+        width="48"
+        height="48"
+        alt="css"
+      />
+      <br />
+      <br />
+      <p style="color: royalblue; align-items: center;">CSS</p>
+    </td>
+    <td align="center" width="96" style="padding-left: 15%">
+      <img
+        src="https://skillicons.dev/icons?i=bootstrap"
+        width="48"
+        height="48"
+        alt="bootstrap"
+      />
+      <br />
+      <br />
+      <p style="color: blueviolet">Bootstrap</p>
+    </td>
+  </tr>
+</table>
+
+</div> -->
+
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/definem/count.svg"/>
