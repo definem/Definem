@@ -44,12 +44,6 @@
   <ul>
       🎊 I took a test on the linux tutorial on the linkedin social media.
   </ul>
-
-  <div class="img_linux">
-
-       <img src="https://github.com/definem/Definem/assets/120991965/6c27d1ad-a6db-4edb-971b-7d77563a1de9"/> 
- 
-  </div>
   
 </p>
 
