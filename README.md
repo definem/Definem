@@ -1,7 +1,5 @@
 ## Definem | Developer 
 
-// Bismillah
-
 <h3>English</h3>
 </br>
 <h3 align="center">
