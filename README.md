@@ -34,7 +34,7 @@
   </ul>
       <p>∙ ⚡️ The fun facts: </p>
   <ul>
-      ⚫ I like and can play piano 🎹
+      ⚫ One of the piano lovers 🎹
   </ul>
   <ul>
       ⚫ I am also interested in mobilography🎥
