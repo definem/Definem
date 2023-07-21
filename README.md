@@ -46,9 +46,12 @@
   <ul>
       🎊 I took a test on the linux tutorial on the linkedin social media.
   </ul>
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/120991965/255146387-5bf67f04-2bfc-46d6-a0ee-f790ea15930d.jpeg" alter="certificate"
+        width="650"
+        height="500"
+    />
   
 </p>
-
 </br>
 
 <!-- <div style="padding-left: 23%;">
