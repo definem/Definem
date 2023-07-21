@@ -1,9 +1,6 @@
-## Definem | Developer 
+## Definem❤️‍🔥 | Developer 
 
 <h3>English</h3>
-
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee & Chocolatee" width="150" ></a>
-
 
 </br>
 <h3 align="center">
@@ -133,7 +130,11 @@
   <img src="https://profile-counter.glitch.me/definem/count.svg"/>
 </p>
 
-## Definem | Developer 
+<p align="center"> 📈 Definem's github stats🔥 </p>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=definem&show_icons=true&theme=gotham" alt="definem" />
+
+## Definem❤️‍🔥 | Developer 
 
 <h3>Turkish</h3>
 </br>
