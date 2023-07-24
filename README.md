@@ -8,7 +8,6 @@
 <a href="https://www.buymeacoffee.com/mdefineeq"><img align="center" alt="Buy me a Book" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" /></a>
 </p>
 
-</br>
 <h3 align="center">
   Welcome to <b><a href="https://definem.vercel.app/">Definem</a></b>'s profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
