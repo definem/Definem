@@ -55,7 +55,10 @@
   <ul>
       🎊 **I took a test on the linux tutorial on the linkedin social media.**
   </ul>
-  <p align="center"> 📈 Definem's github stats🔥 </p>
+
+  <br>
+  
+  <p align="center"> *** 📈 Definem's github stats🔥 *** </p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=definem&show_icons=true&theme=gotham" alt="definem" />
 <!--   <img align="center" display="flex" src="https://github-production-user-asset-6210df.s3.amazonaws.com/120991965/255146387-5bf67f04-2bfc-46d6-a0ee-f790ea15930d.jpeg" alter="certificate"
