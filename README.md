@@ -5,7 +5,7 @@
 <p align="center">
 <a href="https://linkedin.com/in/definem" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="definem" height="30" width="30" /></a>&nbsp;
 <a href="http://discord.com/users/definem" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="definem" height="40" width="30" /></a>&nbsp;
-<a href="https://www.buymeacoffee.com/definem"><img align="center" alt="Buy me a Coffee" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" /></a>
+<a href="https://www.buymeacoffee.com/mdefineeq"><img align="center" alt="Buy me a Book" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" /></a>
 </p>
 
 </br>
