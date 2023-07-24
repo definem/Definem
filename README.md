@@ -58,10 +58,14 @@
 
   <br>
   
+  ## Stargazers
+
+[![Stargazers repo roster for @definem/definem](https://reporoster.com/stars/definem/definem)](https://github.com/definem/definem/stargazers)
+
+
   <p align="center"> *** 📈 Definem's github stats🔥 *** </p>
 
   </br>
-
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=definem&show_icons=true&theme=gotham" alt="definem" />
 <!--   <img align="center" display="flex" src="https://github-production-user-asset-6210df.s3.amazonaws.com/120991965/255146387-5bf67f04-2bfc-46d6-a0ee-f790ea15930d.jpeg" alter="certificate"
         width="650"
@@ -147,6 +151,12 @@
 
 </div> -->
 
+<p align="center">
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="60">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="60">
+<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60">
+</h4>
 
 <p align="center"> 
   Visitor count<br>
@@ -155,7 +165,7 @@
 
 <br>
 
-<img align="center" display="flex" src="https://github-production-user-asset-6210df.s3.amazonaws.com/120991965/255146387-5bf67f04-2bfc-46d6-a0ee-f790ea15930d.jpeg" alter="certificate"
+<!-- <img align="center" display="flex" src="https://github-production-user-asset-6210df.s3.amazonaws.com/120991965/255146387-5bf67f04-2bfc-46d6-a0ee-f790ea15930d.jpeg" alter="certificate"
         width="650"
         height="500"
-    /> 
+    /> -->
