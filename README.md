@@ -148,6 +148,8 @@
   <img src="https://profile-counter.glitch.me/definem/count.svg"/>
 </p>
 
+<br>
+
 <img align="center" display="flex" src="https://github-production-user-asset-6210df.s3.amazonaws.com/120991965/255146387-5bf67f04-2bfc-46d6-a0ee-f790ea15930d.jpeg" alter="certificate"
         width="650"
         height="500"
