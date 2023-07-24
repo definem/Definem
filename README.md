@@ -50,6 +50,9 @@
   </ul>
        <p>∙ 😅 Extra infos: </p>
   <ul>
+      🎊 Languages: Uzbek, English, Turkish, Russian, Arabic and a little bit German)
+  </ul>
+  <ul>
       🎊 **I took a test on the linux tutorial on the linkedin social media.**
   </ul>
   <img align="center" display="flex" src="https://github-production-user-asset-6210df.s3.amazonaws.com/120991965/255146387-5bf67f04-2bfc-46d6-a0ee-f790ea15930d.jpeg" alter="certificate"
@@ -143,59 +146,3 @@
 <p align="center"> 📈 Definem's github stats🔥 </p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=definem&show_icons=true&theme=gotham" alt="definem" />
-
-## Definem❤️‍🔥 | Developer 
-
-<h3>Turkish</h3>
-</br>
-<h3 align="center">
-  <a href="https://definem.vercel.app/">Definem</a> <b>'in hesabına</b> hoş geldiniz!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
-
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=İyi%20bir%20geliştiriciyim;En%20ünlü%20ve%20popüler;%20Programlama%20dillerinin;%20öğrencisiyim&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p>
-  
-<!-- <p align="center">
-  <a href="https://github.com/definem?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=pink&labelColor=deeppink&border-radius:10px&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/definem"/></a>
-  <a href="https://github.com/definem?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/definem?color=aqua&labelColor=deepskyblue&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
-</p> -->
-  
-  
-<p align="center">
- 
-  <p>∙ Özbekistan'dan <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> bir geliştirici.</p>
-  <ul>
-      ⚪ 🍁 Ben şimdilik Frontend'i öğreniyorum ve genelde en ünlü programlama dillerini öğreniyorum.
-  </ul>
-  <ul>
-      ⚪ 🏅 Ve ben gelecekte hangi mesleği seçsem de onun üzerinde üzman olmak istiyorum ...
-  </ul>
-      <p>∙ ⚡️ Eğlenceli bilgiler: </p>
-  <ul>
-      ⚫ Ben piyano çalmayı biliyorum ve çok seviyorum 🎹
-  </ul>
-  <ul>
-      ⚫ Mobilografya alanına da çok ilgim var🎥
-  </ul>
-  <ul>
-      ⚫ Vee ışte hiç kimseye benzemeyen bir insanım🛸
-  </ul>
-       <p>∙ 😅 Ekstra bilgiler: </p>
-  <ul>
-      🎊 Linkedin sosyal medyasında linux eğitiminde bir test yaptım ve başarılı geçtim.
-  </ul>
-
-</p>
-
-</br>
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/definem/count.svg"/>
-</p>
