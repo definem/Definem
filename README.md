@@ -4,6 +4,11 @@
 
 <br>
 
+<p display="block" align="center">
+  <a href="https://app.daily.dev/definem"><img src="https://api.daily.dev/devcards/c095d9ba91f14e5a84902801fcf0a47a.png?r=kiy" width="400" alt="Definem's Dev Card"/></a>
+</p>
+
+
 <p align="center">
 <a href="https://linkedin.com/in/definem" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="definem" height="30" width="30" /></a>&nbsp;
 <a href="http://discord.com/users/дефинем#5371" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="definem" height="40" width="30" /></a>&nbsp;
@@ -57,11 +62,6 @@
   </ul>
 
   <br>
-  
-  ## Stargazers
-
-[![Stargazers repo roster for @definem/definem](https://reporoster.com/stars/definem/definem)](https://github.com/definem/definem/stargazers)
-
 
   <p align="center"> *** 📈 Definem's github stats🔥 *** </p>
 
