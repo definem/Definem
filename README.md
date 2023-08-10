@@ -64,14 +64,23 @@
 
   <p align="center"> *** 📈 Definem's github stats🔥 *** </p>
 
-  </br>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=definem&show_icons=true&theme=gotham" alt="definem" />
-<!--   <img align="center" display="flex" src="https://github-production-user-asset-6210df.s3.amazonaws.com/120991965/255146387-5bf67f04-2bfc-46d6-a0ee-f790ea15930d.jpeg" alter="certificate"
-        width="650"
-        height="500"
-    /> -->
+<div align="center" >
+<a  href="https://github.com/definem">
+
+<img src="https://raw.githubusercontent.com/definem/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/definem/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/definem/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+
+</a>
+
+<details>
+  <summary>More stats</summary>
   
-</p>
+<img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
+
+</details>
+  
+<hr></hr>
     
 
 <p align="center">
