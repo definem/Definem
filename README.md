@@ -74,12 +74,14 @@
 
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![Sass](https://img.shields.io/badge/-SASS-black?style=flat-square&logo=sass)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 ![TailwindCss](https://img.shields.io/badge/-TailwindCss-black?style=flat-square&logo=tailwindcss)
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![ReactRouter](https://img.shields.io/badge/-ReactRouter-black?style=flat-square&logo=reactRouter)
+
 
 ### Backend 
 
@@ -89,6 +91,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![QT](https://img.shields.io/badge/-Qt-black?style=flat-square&logo=qt)
 
 ### 😎✨
 
@@ -98,10 +101,28 @@
 ![VisualStudio](https://img.shields.io/badge/-VisualStudio-black?style=flat-square&logo=visualstudio)
 ![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
+![NPM](https://img.shields.io/badge/-npm-black?style=flat-square&logo=npm)
+![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
+![QT](https://img.shields.io/badge/-Qt-black?style=flat-square&logo=qt)
+
+### 😎😁
+
+![CounterStrike](https://img.shields.io/badge/-CounterStrike-black?style=flat-square&logo=counterstrike)
+![Pubg](https://img.shields.io/badge/-PUBG-black?style=flat-square&logo=pubg)
 
 ### Technologies that I would like to learn in the future:
 
-![Ant Design](https://img.shields.io/badge/Ant%20Design-1890FF?style=for-the-badge&logo=antdesign&logoColor=white)
+![NodeJs](https://img.shields.io/badge/-NodeJs-black?style=flat-square&logo=node.js)
+![NestJs](https://img.shields.io/badge/-NestJs-black?style=flat-square&logo=nest.Js)
+![NextJs](https://img.shields.io/badge/-NextJs-black?style=flat-square&logo=next.js)
+![NuxtJs](https://img.shields.io/badge/-NuxtJs-black?style=flat-square&logo=nuxt.js)
+![VueJs](https://img.shields.io/badge/-VueJs-black?style=flat-square&logo=vue.js)
+![ExpressJs](https://img.shields.io/badge/-ExpressJs-black?style=flat-square&logo=expressjs)
+![ElectronJs](https://img.shields.io/badge/-ElectronJs-black?style=flat-square&logo=electronjs)
+![AntDesign](https://img.shields.io/badge/-AntDesign-black?style=flat-square&logo=antdesign)
+![GraphQl](https://img.shields.io/badge/-GraphQl-black?style=flat-square&logo=graphql)
+![Jquery](https://img.shields.io/badge/-Jquery-black?style=flat-square&logo=jquery)
+![NPM](https://img.shields.io/badge/-npm-black?style=flat-square&logo=npm)
 
 
   
