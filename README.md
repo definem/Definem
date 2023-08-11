@@ -9,11 +9,6 @@
 </p>
 
 
-  <p display="block" align="center">
-    <a href="https://app.daily.dev/definem"><img src="https://api.daily.dev/devcards/c095d9ba91f14e5a84902801fcf0a47a.png?r=kiy" width="400" alt="Definem's Dev Card"/></a>
-  </p>
-
-
 <h3 align="center">
   Welcome to <b><a href="https://definem.vercel.app/">Definem</a></b>'s profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -24,13 +19,6 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm%20a%20Good%20developer;Seeking-knowledge;The%20most%20popular;%20Programming%20languages&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p>
-  
-<p align="center">
-  <a href="https://github.com/definem?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=red&labelColor=orange&border-radius:30px&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/definem"/></a>
-  <a href="https://github.com/definem?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/definem?color=green&labelColor=yellow&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
 </p>
     
 <p align="center">
@@ -71,7 +59,7 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="60">
 <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60">
-</h4>
+</p>
 
 <p align="center"> 
   Visitor count<br>
@@ -82,13 +70,13 @@
 
 <div align="center" display="block">
 
-  ## Technologies
-
 ### Frontend
 
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
+![TailwindCss](https://img.shields.io/badge/-TailwindCss-black?style=flat-square&logo=tailwindcss)
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -108,6 +96,12 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-181717?style=flat-square&logo=gitlab)
 ![VisualStudio](https://img.shields.io/badge/-VisualStudio-black?style=flat-square&logo=visualstudio)
+![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
+![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
+
+### Technologies that I would like to learn in the future:
+
+![Ant Design](https://img.shields.io/badge/Ant%20Design-1890FF?style=for-the-badge&logo=antdesign&logoColor=white)
 
 
   
