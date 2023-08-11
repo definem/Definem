@@ -79,8 +79,8 @@
 
 ### Frontend
 
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5&logoColor=orange)
+![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3&logoColor=4444ff)
 ![Sass](https://img.shields.io/badge/-SASS-black?style=flat-square&logo=sass)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 ![TailwindCss](https://img.shields.io/badge/-TailwindCss-black?style=flat-square&logo=tailwindcss)
@@ -92,20 +92,28 @@
 
 ### Backend 
 
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![C](https://img.shields.io/badge/-C_prog_lang-black?style=flat-square&logo=c)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![QT](https://img.shields.io/badge/-Qt-black?style=flat-square&logo=qt)
+![QT](https://img.shields.io/badge/-Qt5-black?style=flat-square&logo=qt)
 
 ### 😎✨
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-181717?style=flat-square&logo=gitlab)
-![VisualStudio](https://img.shields.io/badge/-VisualStudio-black?style=flat-square&logo=visualstudio)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab)
+![VisualStudio](https://img.shields.io/badge/-VisualStudio-black?style=flat-square&logo=visualstudio&logoColor=blue)
+![PYcharm](https://img.shields.io/badge/-PyCharm-black?style=flat-square&logo=pycharm&logoColor=green)
+![Sublime](https://img.shields.io/badge/-Sublime-black?style=flat-square&logo=sublimetext)
+![Vim](https://img.shields.io/badge/-Vim-black?style=flat-square&logo=vim&logoColor=228B22)
+![Terminal](https://img.shields.io/badge/-Terminal-black?style=flat-square&logo=terminal)
+![Nano](https://img.shields.io/badge/-Nano-black?style=flat-square&logo=nano)
+
+
 ![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
 ![NPM](https://img.shields.io/badge/-npm-black?style=flat-square&logo=npm)
@@ -127,8 +135,8 @@
 ![ExpressJs](https://img.shields.io/badge/-ExpressJs-black?style=flat-square&logo=expressjs)
 ![ElectronJs](https://img.shields.io/badge/-ElectronJs-black?style=flat-square&logo=electronjs)
 ![AntDesign](https://img.shields.io/badge/-AntDesign-black?style=flat-square&logo=antdesign)
-![GraphQl](https://img.shields.io/badge/-GraphQl-black?style=flat-square&logo=graphql)
-![Jquery](https://img.shields.io/badge/-Jquery-black?style=flat-square&logo=jquery)
+![GraphQl](https://img.shields.io/badge/-GraphQl-black?style=flat-square&logo=graphql&logoColor=FF69B4)
+![Jquery](https://img.shields.io/badge/-Jquery-black?style=flat-square&logo=jquery&logoColor=0476D0)
 ![NPM](https://img.shields.io/badge/-npm-black?style=flat-square&logo=npm)
   
 </div>
