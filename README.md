@@ -23,8 +23,7 @@
 <!-- ---- DAILY DEV CARD ---- -->
 
   <p display="block" align="center">
-    <a href="https://app.daily.dev/definem"><img src="https://api.daily.dev/devcards/c095d9ba91f14e5a84902801fcf0a47a.png?r=kiy" width="400" alt="Definem's Dev Card"/></a>
-  </p>
+   <a href="https://app.daily.dev/definem"><img src="https://api.daily.dev/devcards/c095d9ba91f14e5a84902801fcf0a47a.png?r=m5a" width="400" alt="Definem's Dev Card"/></a>
 
 <!-- ---- TYPING ANIMATION ABOUT DEFINEM ---- -->
 
