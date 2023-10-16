@@ -1,9 +1,15 @@
-## Definem❤️‍🔥 | Developer <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+## Definem🪓 | Developer <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 
 <!-- <h3 align="center">:octocat: English :octocat:</h3> -->
 
 <!-- ---- DEFINEM'S SOCIALS ---- -->
+
+
+
+<!--
+
+
 
 <p align="center">
   <a href="https://linkedin.com/in/definem" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="definem" 
@@ -15,10 +21,16 @@
 
 <!-- ---- SAY WELCOME ---- -->
 
+
+
+<!--
+
+
 <h3 align="center">
   Welcome to <a href="https://definem.vercel.app/">Definem</a>'s profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
+
 
 <!-- ---- DAILY DEV CARD ---- -->
 
@@ -28,6 +40,10 @@
  -->
 
 <!-- ---- TYPING ANIMATION ABOUT DEFINEM ---- -->
+
+
+<!--
+
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -82,6 +98,11 @@
 -->
 
 <!-- ---- TECHNOLOGIES ---- -->
+
+
+<!--
+
+
 
 <div align="center" display="block">
 
