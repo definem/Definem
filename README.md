@@ -1,4 +1,4 @@
-## Definem🪓 | Developer <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+## Definem❤️‍🔥 | Developer <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 
 <!-- <h3 align="center">:octocat: English :octocat:</h3> -->
@@ -7,7 +7,7 @@
 
 
 
-<!--
+
 
 
 
@@ -23,7 +23,7 @@
 
 
 
-<!--
+
 
 
 <h3 align="center">
@@ -42,7 +42,6 @@
 <!-- ---- TYPING ANIMATION ABOUT DEFINEM ---- -->
 
 
-<!--
 
 
 <p align="center">
@@ -100,7 +99,7 @@
 <!-- ---- TECHNOLOGIES ---- -->
 
 
-<!--
+
 
 
 
