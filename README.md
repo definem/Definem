@@ -27,7 +27,7 @@
 
 
 <h3 align="center">
-  Welcome to <a href="https://definem.vercel.app/">Definem</a>'s profile!
+  Welcome to <a href="https://definem.vercel.app/">Muhammadiyya</a>'s profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -40,9 +40,6 @@
  -->
 
 <!-- ---- TYPING ANIMATION ABOUT DEFINEM ---- -->
-
-
-
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -80,9 +77,9 @@
 
 -->
 
-<!-- ---- DEFIENM'S GITHUB STATS ---- -->
+<!-- ---- DEFINEM'S GITHUB STATS ---- -->
 
-  <!-- <p align="center"> *** 📈 Definem's github stats🔥 *** </p> -->
+  ![Muhammadiyya's GitHub stats](https://github-readme-stats.vercel.app/api?username=definem&show_icons=true&theme=transparent&items=center)
 
 
 <!-- ---- PYTHON, GITHUB EXPLORE, LINUX, AND GITHUB LOGOS ---- -->
@@ -100,7 +97,7 @@
 
 
 
-
+<!---
 
 
 <div align="center" display="block">
