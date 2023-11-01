@@ -5,12 +5,6 @@
 
 <!-- ---- DEFINEM'S SOCIALS ---- -->
 
-
-
-
-
-
-
 <p align="center">
   <a href="https://linkedin.com/in/definem" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="definem" 
     height="30" width="30" /></a>&nbsp;
@@ -21,16 +15,21 @@
 
 <!-- ---- SAY WELCOME ---- -->
 
-
-
-
-
-
 <h3 align="center">
   Welcome to <a href="https://definem.vercel.app/">Muhammadiyya</a>'s profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <br>
+  <br/>
+  <div class="badge-base LI-profile-badge" data-locale="ru_RU" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="muslimakhon-m-🇵🇸-290381297" data-version="v1">
+  <a class="badge-base__link LI-simple-link" href="https://uz.linkedin.com/in/muslimakhon-%F0%9F%87%B5%F0%9F%87%B8-m-290381297?trk=profile-badge">
+    Muhammadiyya 🇵🇸
+  </a>
+</div>
 </h3>
 
+
+
+              
 
 <!-- ---- DAILY DEV CARD ---- -->
 
