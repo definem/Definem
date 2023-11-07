@@ -1,6 +1,5 @@
 ## Definem❤️‍🔥 | Developer <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-
 <!-- <h3 align="center">:octocat: English :octocat:</h3> -->
 
 <!-- ---- DEFINEM'S SOCIALS ---- -->
@@ -32,13 +31,6 @@ Welcome to Muhammadiyya's profile!
 > This is a Muhammadiyya's profile.
 
 
-<!-- ---- DAILY DEV CARD ---- -->
-
- <!--
-   <p display="block" align="center">
-     <a href="https://app.daily.dev/definem"><img src="https://api.daily.dev/devcards/c095d9ba91f14e5a84902801fcf0a47a.png?r=m5a" width="400" alt="Definem's Dev Card"/></a>
- -->
-
 <!-- ---- TYPING ANIMATION ABOUT DEFINEM ---- -->
 
 <p align="center">
@@ -47,42 +39,13 @@ Welcome to Muhammadiyya's profile!
     knowledge;The%20most%20popular;%20Programming%20languages&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
-<!-- ---- WHO AM I ---- -->
-
-<!--
-    
-<p align="center">
- 
-  <p>∙ Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uzbekistan.</p>
-  <ul>
-      ⚪ 🍁 I'm currently learning mostly frontend and I'm also learning the most popular programming languages.
-  </ul>
-      <p>∙ ⚡️ The fun facts: </p>
-  <ul>
-      ⚫ One of the piano lovers 🎹
-  </ul>
-  <ul>
-      ⚫ I am also interested in mobilography🎥
-  </ul>
-  <ul>
-      ⚫ A person who isn't like anyone else🛸
-  </ul>
-       <p>∙ 😅 Extra infos: </p>
-  <ul>
-      🎊 Languages: Uzbek, English, Turkish, Russian, Arabic and a little bit German)
-  </ul>
-  <ul>
-      🎊 I took a test on the linux tutorial on the linkedin social media.
-  </ul>
-
--->
 
 <!-- ---- DEFINEM'S GITHUB STATS ---- -->
 
 <!--  ![Muhammadiyya's GitHub stats](https://github-readme-stats.vercel.app/api?username=definem&show_icons=true&theme=transparent&items=center)
 -->
 
-<div display="block" align="center">
+<div align="center">
   
   ### :fire: Definem's Stats :
   
@@ -104,10 +67,7 @@ Welcome to Muhammadiyya's profile!
 
 <!-- ---- TECHNOLOGIES ---- -->
 
-
-
 <!---
-
 
 <div align="center" display="block">
 
