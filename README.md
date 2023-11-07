@@ -81,6 +81,14 @@ Welcome to Muhammadiyya's profile!
 
   ![Muhammadiyya's GitHub stats](https://github-readme-stats.vercel.app/api?username=definem&show_icons=true&theme=transparent&items=center)
 
+<div display="block" align="center">
+  
+  ### :fire: My Stats :
+  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=definem&theme=shades-of-purple&currStreakNum=16F11E&stroke=DD2727&ring=FCFB00EF&sideLabels=3028DD&dates=15DBDD&sideNums=48DD0C&border=FEFCF2&background=0C0202&fire=C0F70B&currStreakLabel=22DD05)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=definem&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 <!-- ---- PYTHON, GITHUB EXPLORE, LINUX, AND GITHUB LOGOS ---- -->
   
