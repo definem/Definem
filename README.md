@@ -79,11 +79,12 @@ Welcome to Muhammadiyya's profile!
 
 <!-- ---- DEFINEM'S GITHUB STATS ---- -->
 
-  ![Muhammadiyya's GitHub stats](https://github-readme-stats.vercel.app/api?username=definem&show_icons=true&theme=transparent&items=center)
+<!--  ![Muhammadiyya's GitHub stats](https://github-readme-stats.vercel.app/api?username=definem&show_icons=true&theme=transparent&items=center)
+-->
 
 <div display="block" align="center">
   
-  ### :fire: My Stats :
+  ### :fire: Definem's Stats :
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=definem&theme=shades-of-purple&currStreakNum=16F11E&stroke=DD2727&ring=FCFB00EF&sideLabels=3028DD&dates=15DBDD&sideNums=48DD0C&border=FEFCF2&background=0C0202&fire=C0F70B&currStreakLabel=22DD05)](https://git.io/streak-stats)
 
