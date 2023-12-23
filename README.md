@@ -26,11 +26,23 @@ Welcome to Definem's profile!
 </div>
 </h3>
 
+<details>
+
+<summary>Hii theree</summary>
+
+### Nice to meet you😁
+
+![he he](https://myoctocat.com/assets/images/base-octocat.svg)
+
 <!--
-  > [!warning]  
-  > This is a Muhammadiyya's profile.
+
+```ruby
+   puts "Just for practise"
+```
+
 -->
 
+</details>
 
 <!-- ---- TYPING ANIMATION ABOUT DEFINEM ---- -->
 
@@ -139,6 +151,10 @@ Welcome to Definem's profile!
 <br>
 
 <!-- ---- VISITOR COUNTER ---- -->
+<br>
+
+> [!TIP]  
+> You can star this repository :)
 
 <br>
 
