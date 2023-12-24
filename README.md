@@ -151,10 +151,6 @@ Welcome to Definem's profile!
 <br>
 
 <!-- ---- VISITOR COUNTER ---- -->
-<br>
-
-> [!TIP]  
-> You can star this repository :)
 
 <br>
 
