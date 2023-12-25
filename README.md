@@ -26,6 +26,8 @@ Welcome to Definem's profile!
 </div>
 </h3>
 
+<!--
+
 <details>
 
 <summary>Hii theree</summary>
@@ -34,15 +36,12 @@ Welcome to Definem's profile!
 
 ![he he](https://myoctocat.com/assets/images/base-octocat.svg)
 
-<!--
-
 ```ruby
    puts "Just for practise"
 ```
+</details>
 
 -->
-
-</details>
 
 <!-- ---- TYPING ANIMATION ABOUT DEFINEM ---- -->
 
