@@ -64,8 +64,15 @@ Welcome to Definem's profile!
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=definem&theme=shades-of-purple&currStreakNum=16F11E&stroke=DD2727&ring=FCFB00EF&sideLabels=3028DD&dates=15DBDD&sideNums=48DD0C&border=FEFCF2&background=0C0202&fire=C0F70B&currStreakLabel=22DD05)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=definem&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
+
+<!-- ---- MOST USED LANGUAGES ---- -->
+
+<!--
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=definem&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+-->
 
 <!-- ---- PYTHON, GITHUB EXPLORE, LINUX, AND GITHUB LOGOS ---- -->
   
