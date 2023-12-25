@@ -45,12 +45,11 @@ Welcome to Definem's profile!
 
 <!-- ---- TYPING ANIMATION ABOUT DEFINEM ---- -->
 
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm%20a%20Good%20developer;Seeking- 
-    knowledge;The%20most%20popular;%20Programming%20languages&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Currently%20Frontend%20developer;Programming%20languages:;TypeScript%20JavaScript;%20C%20and%20Python;Frameworks%20and%20Libraries:;React%20Vue%20Nuxt%20Pinia%20Next;Byee%20See%20U%20Soon!&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
-
 
 <!-- ---- DEFINEM'S GITHUB STATS ---- -->
 
