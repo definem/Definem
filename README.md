@@ -2,8 +2,10 @@
 
 <!-- <h3 align="center">:octocat: English :octocat:</h3> -->
 
-<!-- ---- DEFINEM'S SOCIALS ---- -->
 
+
+<!-- ---- DEFINEM'S SOCIALS ---- -->
+<!--
 <p align="center">
   <a href="https://linkedin.com/in/definem" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="definem" 
     height="30" width="30" /></a>&nbsp;
@@ -12,6 +14,8 @@
   <a href="https://www.buymeacoffee.com/mdefineeq"><img align="center" alt="Buy me a Book" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" /></a>
 </p>
 
+-->
+
 <!-- ---- SAY WELCOME ---- -->
 
 <h3 align="center">
@@ -19,10 +23,12 @@ Welcome to Definem's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   <br>
   <br/>
+  <!--
   <div class="badge-base LI-profile-badge" data-locale="ru_RU" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="muslimakhon-m-🇵🇸-290381297" data-version="v1">
   <a class="badge-base__link LI-simple-link" href="https://uz.linkedin.com/in/muslimakhon-%F0%9F%87%B5%F0%9F%87%B8-m-290381297?trk=profile-badge">
     Definem 🇵🇸
   </a>
+  -->
 </div>
 </h3>
 
@@ -45,16 +51,15 @@ Welcome to Definem's profile!
 
 <!-- ---- TYPING ANIMATION ABOUT DEFINEM ---- -->
 
-
+<!--
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Assalamu%20alaykum!;Currently%20Frontend%20developer;Programming%20languages:;TypeScript,%20JavaScript,;%20C%20and%20Python.;Frameworks%20and%20Libraries:;React,%20Vue,%20Nuxt,%20Pinia,%20Next.;Now%20Cyber%20Security%20Student.;Byee%20See%20U%20Soon!&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
-<!-- ---- DEFINEM'S GITHUB STATS ---- -->
-
-<!--  ![Muhammadiyya's GitHub stats](https://github-readme-stats.vercel.app/api?username=definem&show_icons=true&theme=transparent&items=center)
 -->
+
+<!-- ---- DEFINEM'S GITHUB STATS ---- -->
 
 <div align="center">
   
