@@ -60,14 +60,15 @@ Welcome to Definem's profile!
 -->
 
 <!-- ---- DEFINEM'S GITHUB STATS ---- -->
-
+<!--
 <div align="center">
   
   ### :fire: Definem's Stats :
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=definem&theme=shades-of-purple&currStreakNum=16F11E&stroke=DD2727&ring=FCFB00EF&sideLabels=3028DD&dates=15DBDD&sideNums=48DD0C&border=FEFCF2&background=0C0202&fire=C0F70B&currStreakLabel=22DD05)](https://git.io/streak-stats)
+[![GitHub Steak](http://github-readme-streak-stats.herokuapp.com?user=definem&theme=shades-of-purple&currStreakNum=16F11E&stroke=DD2727&ring=FCFB00EF&sideLabels=3028DD&dates=15DBDD&sideNums=48DD0C&border=FEFCF2&background=0C0202&fire=C0F70B&currStreakLabel=22DD05)](https://git.io/streak-stats)
 
 </div>
+-->
 
 <!-- ---- MOST USED LANGUAGES ---- -->
 
