@@ -37,7 +37,7 @@ Welcome to Definem's profile!
 
 <summary>Hii theree</summary>
 
-### Nice to meet you😁
+### Privet😁
 
 ![he he](https://myoctocat.com/assets/images/base-octocat.svg)
 
