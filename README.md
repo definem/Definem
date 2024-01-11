@@ -32,7 +32,7 @@ Welcome to Definem's profile!
 </div>
 </h3>
 
-<!--
+
 
 <details>
 
@@ -47,7 +47,7 @@ Welcome to Definem's profile!
 ```
 </details>
 
--->
+
 
 <!-- ---- TYPING ANIMATION ABOUT DEFINEM ---- -->
 
@@ -163,7 +163,7 @@ Welcome to Definem's profile!
 
 <!-- ---- VISITOR COUNTER ---- -->
 
-<br>
+
 
 <p align="center"> 
   Visitor count
