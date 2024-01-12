@@ -1,4 +1,4 @@
-## Definem❤️‍🔥 | Developer <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+##  Developer <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 <!-- <h3 align="center">:octocat: English :octocat:</h3> -->
 
@@ -16,7 +16,11 @@
 
 -->
 
+
+
 <!-- ---- SAY WELCOME ---- -->
+
+<!---
 
 <h3 align="center">
 Welcome to Definem's profile! 
@@ -27,11 +31,12 @@ Welcome to Definem's profile!
   <a class="badge-base__link LI-simple-link" href="https://uz.linkedin.com/in/muslimakhon-%F0%9F%87%B5%F0%9F%87%B8-m-290381297?trk=profile-badge">
     Definem 🇵🇸
   </a>
-  -->
-</div>
+ </div>
 </h3>
 
+--->
 
+<!---
 
 <details>
 
@@ -44,6 +49,7 @@ Welcome to Definem's profile!
 
 </details>
 
+--->
 
 
 <!-- ---- TYPING ANIMATION ABOUT DEFINEM ---- -->
@@ -160,7 +166,7 @@ Welcome to Definem's profile!
 
 <!-- ---- VISITOR COUNTER ---- -->
 
-
+<!---
 
 <p align="center"> 
   Visitor count
@@ -168,6 +174,8 @@ Welcome to Definem's profile!
   <br>
   <img src="https://profile-counter.glitch.me/definem/count.svg"/>
 </p>
+
+--->
 
 
 <!-- ---- LINUX CERTIFICATE FROM LINKEDIN ASSESMENT ---- -->
