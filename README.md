@@ -6,7 +6,7 @@
 
 
       
-<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=gulchapchap-290381297" target="_blank">Follow on LinkedIn</a>
+<a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=gulchapchap-290381297" target="_blank" align="center">Follow on LinkedIn</a>
 
 <!-- ---- DEFINEM'S SOCIALS ---- -->
 <!--
