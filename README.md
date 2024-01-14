@@ -2,7 +2,7 @@
 
 <!-- <h3 align="center">:octocat: English :octocat:</h3> -->
 
-<h6 align="center">Sabr qil ！Hammasi o'tadi. <br> Kulib yurgan Doim yutadi 😄❤️‍🩹</h2>
+<h6 align="center">Sabr qil ！Hammasi birkun o'tadi. <br> Kulib yurgan Doim yutadi 😄❤️‍🩹</h2>
 
 <!-- ---- DEFINEM'S SOCIALS ---- -->
 <!--
