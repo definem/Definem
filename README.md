@@ -4,6 +4,10 @@
 
 <h6 align="center">Hammasiga kulib qo'ydim 🙂❤️‍🩹</h2>
 
+
+      
+<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=gulchapchap-290381297" target="_blank">Follow on LinkedIn</a>
+
 <!-- ---- DEFINEM'S SOCIALS ---- -->
 <!--
 <p align="center">
