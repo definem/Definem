@@ -2,7 +2,8 @@
 
 <!-- <h3 align="center">:octocat: English :octocat:</h3> -->
 
-<h6 align="center">Hammasiga kulib qo'ydim 🙂❤️‍🩹</h2>
+<h5 align="center"><i> Her şeye rağmen ayakta kalabilmek </i></h5>
+<h6 align="center"><i> önemli ama çok zordur... </i></h6>
 
 <!-- ---- DEFINEM'S SOCIALS ---- -->
 <!--
