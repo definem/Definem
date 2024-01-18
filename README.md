@@ -4,7 +4,7 @@
 
 <h5 align="center"><i> Her şeye rağmen ayakta kalabilmek </i></h5>
 <h6 align="center"><i> önemli ama çok zordur... </i></h6>
-<h6 align="center"><b><i> şüphesiz biz allah'tan geldik ve o'na döneceğiz </i></b></h6>
+<h6 align="center"><b><i> şüphesiz biz Allah'tan geldik ve o'na döneceğiz </i></b></h6>
 
 <!-- ---- DEFINEM'S SOCIALS ---- -->
 <!--
