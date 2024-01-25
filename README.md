@@ -1,193 +1,89 @@
 #  Definem | Developer <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-<!-- <h3 align="center">:octocat: English :octocat:</h3> -->
-<!--
-
-<h5 align="center"><i> Her şeye rağmen ayakta kalabilmek </i></h5>
-<h6 align="center"><i> önemli ama çok zordur... </i></h6>
-<h6 align="center"><b><i> şüphesiz biz Allah'tan geldik ve o'na döneceğiz </i></b></h6>
-
--->
 
 <h2 align="center"><i> Experience, Intelligence and last 365 ++ </i></h1>
 
-<!-- ---- DEFINEM'S SOCIALS ---- -->
-<!--
-<p align="center">
-  <a href="https://linkedin.com/in/definem" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="definem" 
-    height="30" width="30" /></a>&nbsp;
-  <a href="http://discord.com/users/дефинем#5371" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="definem" 
-    height="40" width="30" /></a>&nbsp;
-  <a href="https://www.buymeacoffee.com/mdefineeq"><img align="center" alt="Buy me a Book" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" /></a>
-</p>
+<h3 align="center"><i> 💫 About Me: </i></h1>
 
--->
+<br>
 
+🔭 I’m currently working on developing my skills in React.js and Vue.js Frameworks.<br>
 
+👯 I’m looking to collaborate on open-source projects related to web development.<br>
 
-<!-- ---- SAY WELCOME ---- -->
+🤝 I’m looking for help with React concepts and best practices.<br>
 
-<!---
+🌱 I’m currently learning more about front-end development with JavaScript, TypeScript, Vue and React.<br>
 
-<h3 align="center">
-Welcome to Definem's profile! 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  <br>
-  <!--
-  <div class="badge-base LI-profile-badge" data-locale="ru_RU" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="muslimakhon-m-🇵🇸-290381297" data-version="v1">
-  <a class="badge-base__link LI-simple-link" href="https://uz.linkedin.com/in/muslimakhon-%F0%9F%87%B5%F0%9F%87%B8-m-290381297?trk=profile-badge">
-    Definem 🇵🇸
-  </a>
- </div>
-</h3>
+💬 Ask me about Frontend development, React and Vue Frameworks, web development, or anything related to programming.<br>
 
---->
-
-<!---
-
-<details>
-
-<summary>Hii theree</summary>
-
-### Privet😁
-
-![he he](https://myoctocat.com/assets/images/base-octocat.svg)
+⚡️ Fun fact: Even if you read so much information, you will not know about me 😉
 
 
-</details>
-
---->
+<br>
 
 
-<!-- ---- TYPING ANIMATION ABOUT DEFINEM ---- -->
+![C](https://img.shields.io/badge/C%20Prog%20lang-information?style=flat&logo=c&logoColor=black&color=black&labelColor=0077b6)
+![Python](https://img.shields.io/badge/Python-information?style=flat&logo=python&logoColor=black&color=black&labelColor=3670A0)
+![MySQL](https://img.shields.io/badge/MySQL-information?style=flat&logo=mysql&logoColor=black&color=black&labelColor=039BE5)
+![ElectronJs](https://img.shields.io/badge/Electron%20Js-information?style=flat&logo=electron&logoColor=black&color=black&labelColor=039BE5)
 
-<!--
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Assalamu%20alaykum!;Currently%20Frontend%20developer;Programming%20languages:;TypeScript,%20JavaScript,;%20C%20and%20Python.;Frameworks%20and%20Libraries:;React,%20Vue,%20Nuxt,%20Pinia,%20Next.;Now%20Cyber%20Security%20Student.;Byee%20See%20U%20Soon!&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p>
+![HTML](https://img.shields.io/badge/HTML-information?style=flat&logo=html5&logoColor=black&color=black&labelColor=%23E34F26)
+![CSS](https://img.shields.io/badge/CSS-information?style=flat&logo=css3&logoColor=black&color=black&labelColor=%231572B6)
+![SASS](https://img.shields.io/badge/SASS-information?style=flat&logo=sass&logoColor=black&color=black&labelColor=EF87BE)
+![JavaScript](https://img.shields.io/badge/JavaScript-information?style=flat&logo=javascript&logoColor=black&color=black&labelColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-information?style=flat&logo=typescript&logoColor=black&color=black&labelColor=039BE5)
 
--->
+![i18n](https://img.shields.io/badge/i18n-information?style=flat&logo=i18next&logoColor=black&color=black&labelColor=F7DF1E)
+![VanillaJs](https://img.shields.io/badge/Vanilla%20Js-information?style=flat&logo=javascript&logoColor=black&color=black&labelColor=F7DF1E)
+![CoreJs](https://img.shields.io/badge/Core%20Js-information?style=flat&logo=javascript&logoColor=black&color=black&labelColor=F7DF1E)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-information?style=flat&logo=bootstrap&logoColor=black&color=black&labelColor=553C76)
+![TailwindCss](https://img.shields.io/badge/TailwindCss-information?style=flat&logo=tailwindcss&logoColor=black&color=black&labelColor=039BE5)
 
-<!-- ---- DEFINEM'S GITHUB STATS ---- -->
-<!--
-<div align="center">
-  
-  ### :fire: Definem's Stats :
-  
-[![GitHub Steak](http://github-readme-streak-stats.herokuapp.com?user=definem&theme=shades-of-purple&currStreakNum=16F11E&stroke=DD2727&ring=FCFB00EF&sideLabels=3028DD&dates=15DBDD&sideNums=48DD0C&border=FEFCF2&background=0C0202&fire=C0F70B&currStreakLabel=22DD05)](https://git.io/streak-stats)
+![React.js](https://img.shields.io/badge/React.js-information?style=flat&logo=react&logoColor=white&color=black&labelColor=61DBFB)
+![ReactRouter](https://img.shields.io/badge/React%20Router-information?style=flat&logo=reactrouter&logoColor=white&color=black&labelColor=%23E34F26)
+![Vue.js](https://img.shields.io/badge/Vue.js-information?style=flat&logo=vue.js&logoColor=41B883&color=black&labelColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-information?style=flat&logo=next.js&logoColor=black&color=black&labelColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-information?style=flat&logo=nuxt.js&logoColor=00e676&color=black&labelColor=black)
 
-</div>
--->
+![JWT](https://img.shields.io/badge/JWT-information?color=black&style=flat&logo=JSON%20web%20tokens)
+![JQuery](https://img.shields.io/badge/JQuery-information?style=flat&logo=jquery&logoColor=039BE5&color=black&labelColor=black)
+![npm](https://img.shields.io/badge/npm-information?style=flat&logo=npm&logoColor=white&color=black&labelColor=%23E34F26)
+![AntDesign](https://img.shields.io/badge/AntDesign-information?style=flat&logo=antdesign&logoColor=white&color=black&labelColor=black)
+![Pinia](https://img.shields.io/badge/Pinia-information?style=flat&logo=pinia&logoColor=white&color=black&labelColor=black)
+![Zustand](https://img.shields.io/badge/Zustand-information?style=flat&logo=zustand&logoColor=white&color=black&labelColor=black)
 
-<!-- ---- MOST USED LANGUAGES ---- -->
+![Postman](https://img.shields.io/badge/Postman-information?style=flat&logo=postman&logoColor=black&color=black&labelColor=FF6C37)
+![Swagger](https://img.shields.io/badge/Swagger-information?style=flat&logo=swagger&logoColor=black&color=black&labelColor=85EA2D)
+![WebSocket](https://img.shields.io/badge/WebSocket-information?style=flat&logo=websocket.io&logoColor=black&color=black&labelColor=%2300CCBB)
+![Trello](https://img.shields.io/badge/Trello-information?style=flat&logo=Trello&logoColor=white&color=black&labelColor=%23026AA7)
+![Netlify](https://img.shields.io/badge/Netlify-information?style=flat&logo=netlify&logoColor=3cd8a5&color=black&labelColor=303030)
+![Vercel](https://img.shields.io/badge/Vercel-information?style=flat&logo=vercel&logoColor=white&color=black&labelColor=black)
 
-<!--
+![Git](https://img.shields.io/badge/Git-information?style=flat&logo=git&logoColor=white&color=black&labelColor=%23E34F26)
+![GitHub](https://img.shields.io/badge/GitHub-information?style=flat&logo=github&logoColor=white&color=black&labelColor=181717)
+![GitHub](https://img.shields.io/badge/Ci%2FCD-Git-information?style=flat&logo=github&logoColor=white&color=black&labelColor=181717)
+![GitLab](https://img.shields.io/badge/GitLab-information?style=flat&logo=gitlab&logoColor=white&color=black&labelColor=%23E34F26)
+![Qt](https://img.shields.io/badge/Qt-information?style=flat&logo=qt&logoColor=41B883&color=black&labelColor=black)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=definem&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
-
--->
-
-<!-- ---- PYTHON, GITHUB EXPLORE, LINUX, AND GITHUB LOGOS ---- -->
-  
-<!-- 
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="60">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="60">
-  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="60">
-  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60">
-</p> 
--->
-
-<!-- ---- TECHNOLOGIES ---- -->
-
-<!---
-
-<div align="center" display="block">
-
-### Frontend
-
-![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5&logoColor=orange)
-![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3&logoColor=4444ff)
-![Sass](https://img.shields.io/badge/-SASS-black?style=flat-square&logo=sass)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
-![TailwindCss](https://img.shields.io/badge/-TailwindCss-black?style=flat-square&logo=tailwindcss)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![ReactRouter](https://img.shields.io/badge/-ReactRouter-black?style=flat-square&logo=reactRouter)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-information?style=flat&logo=ubuntu&logoColor=white&color=black&labelColor=E95420)
+![MacOs](https://img.shields.io/badge/MacOs-information?style=flat&logo=apple&logoColor=white&color=black&labelColor=#383838)
+![Kali](https://img.shields.io/badge/Kali%20Linux-information?style=flat&logo=kalilinux&logoColor=white&color=black&labelColor=1976d2)
+![Windows](https://img.shields.io/badge/Windows-information?style=flat&logo=windows&logoColor=white&color=black&labelColor=1976d2)
 
 
-### Backend 
+![Anaconda](https://img.shields.io/badge/Anaconda-information?style=flat&logo=anaconda&logoColor=black&color=black&labelColor=green)
+![PyCharm](https://img.shields.io/badge/PyCharm-information?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![Vim](https://img.shields.io/badge/Vim-information?style=flat&logo=vim&logoColor=black&color=black&labelColor=003500)
+![Sublime](https://img.shields.io/badge/Sublime-information?style=flat&logo=Sublimetext&logoColor=e65100&color=black&labelColor=ff9800)
+![Nano](https://img.shields.io/badge/Nano-information?style=flat&logo=nano&logoColor=410000&color=black&labelColor=ivory)
 
-![C](https://img.shields.io/badge/-C_prog_lang-black?style=flat-square&logo=c)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![QT](https://img.shields.io/badge/-Qt5-black?style=flat-square&logo=qt)
+![Xcode](https://img.shields.io/badge/Xcode-information?style=flat&logo=xcode&logoColor=black&color=black&labelColor=1976d2)
+![VScode](https://img.shields.io/badge/VScode-information?style=flat&logo=visualstudiocode&logoColor=black&color=black&labelColor=1976d2)
+![VScode](https://img.shields.io/badge/Visual%20Studio-information?style=flat&logo=visualstudio&logoColor=black&color=black&labelColor=1976d2)
 
-### 😎✨
-
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab)
-![VisualStudio](https://img.shields.io/badge/-VisualStudio-black?style=flat-square&logo=visualstudio&logoColor=blue)
-![PYcharm](https://img.shields.io/badge/-PyCharm-black?style=flat-square&logo=pycharm&logoColor=green)
-![Sublime](https://img.shields.io/badge/-Sublime-black?style=flat-square&logo=sublimetext)
-![Vim](https://img.shields.io/badge/-Vim-black?style=flat-square&logo=vim&logoColor=228B22)
-![Terminal](https://img.shields.io/badge/-Terminal-black?style=flat-square&logo=terminal)
-![Nano](https://img.shields.io/badge/-Nano-black?style=flat-square&logo=nano)
-
-
-![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
-![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
-![NPM](https://img.shields.io/badge/-npm-black?style=flat-square&logo=npm)
-![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
-![QT](https://img.shields.io/badge/-Qt-black?style=flat-square&logo=qt)
-
-### 😎😁
+😅😁
 
 ![CounterStrike](https://img.shields.io/badge/-CounterStrike-black?style=flat-square&logo=counterstrike)
 ![Pubg](https://img.shields.io/badge/-PUBG-black?style=flat-square&logo=pubg)
 
-### Technologies that I would like to learn in the future:
-
-![NodeJs](https://img.shields.io/badge/-NodeJs-black?style=flat-square&logo=node.js)
-![NestJs](https://img.shields.io/badge/-NestJs-black?style=flat-square&logo=nest.Js)
-![NextJs](https://img.shields.io/badge/-NextJs-black?style=flat-square&logo=next.js)
-![NuxtJs](https://img.shields.io/badge/-NuxtJs-black?style=flat-square&logo=nuxt.js)
-![VueJs](https://img.shields.io/badge/-VueJs-black?style=flat-square&logo=vue.js)
-![ExpressJs](https://img.shields.io/badge/-ExpressJs-black?style=flat-square&logo=expressjs)
-![ElectronJs](https://img.shields.io/badge/-ElectronJs-black?style=flat-square&logo=electronjs)
-![AntDesign](https://img.shields.io/badge/-AntDesign-black?style=flat-square&logo=antdesign)
-![GraphQl](https://img.shields.io/badge/-GraphQl-black?style=flat-square&logo=graphql&logoColor=FF69B4)
-![Jquery](https://img.shields.io/badge/-Jquery-black?style=flat-square&logo=jquery&logoColor=0476D0)
-![NPM](https://img.shields.io/badge/-npm-black?style=flat-square&logo=npm)
-  
-</div>
-
-<br>
-
-<!-- ---- VISITOR COUNTER ---- -->
-
-<!---
-
-<p align="center"> 
-  Visitor count
-  <br>
-  <br>
-  <img src="https://profile-counter.glitch.me/definem/count.svg"/>
-</p>
-
---->
-
-
-<!-- ---- LINUX CERTIFICATE FROM LINKEDIN ASSESMENT ---- -->
-
-<!-- <img align="center" display="flex" src="https://github-production-user-asset-6210df.s3.amazonaws.com/120991965/255146387-5bf67f04-2bfc-46d6-a0ee-f790ea15930d.jpeg" alter="certificate"
-        width="650"
-        height="500"
-    /> -->
