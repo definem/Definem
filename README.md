@@ -1,10 +1,15 @@
-##  Definem | Developer <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+#  Definem | Developer <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 <!-- <h3 align="center">:octocat: English :octocat:</h3> -->
+<!--
 
 <h5 align="center"><i> Her şeye rağmen ayakta kalabilmek </i></h5>
 <h6 align="center"><i> önemli ama çok zordur... </i></h6>
 <h6 align="center"><b><i> şüphesiz biz Allah'tan geldik ve o'na döneceğiz </i></b></h6>
+
+-->
+
+<h2 align="center"><i> Experience, Intelligence and last 365 ++ </i></h1>
 
 <!-- ---- DEFINEM'S SOCIALS ---- -->
 <!--
