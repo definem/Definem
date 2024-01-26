@@ -3,6 +3,8 @@
 
 <h2 align="center"><i> Experience, Intelligence and last 365 ++ </i></h1>
 
+<!--
+
 <h3 align="center"><i> 💫 About Me: </i></h1>
 
 <br>
@@ -78,6 +80,7 @@
 ![Sublime](https://img.shields.io/badge/Sublime-information?style=flat&logo=Sublimetext&logoColor=e65100&color=black&labelColor=ff9800)
 ![Nano](https://img.shields.io/badge/Nano-information?style=flat&logo=nano&logoColor=410000&color=black&labelColor=ivory)
 
+
 ![Xcode](https://img.shields.io/badge/Xcode-information?style=flat&logo=xcode&logoColor=black&color=black&labelColor=1976d2)
 ![VScode](https://img.shields.io/badge/VScode-information?style=flat&logo=visualstudiocode&logoColor=black&color=black&labelColor=1976d2)
 ![VScode](https://img.shields.io/badge/Visual%20Studio-information?style=flat&logo=visualstudio&logoColor=black&color=black&labelColor=1976d2)
@@ -87,3 +90,4 @@
 ![CounterStrike](https://img.shields.io/badge/-CounterStrike-black?style=flat-square&logo=counterstrike)
 ![Pubg](https://img.shields.io/badge/-PUBG-black?style=flat-square&logo=pubg)
 
+-->
