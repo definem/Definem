@@ -3,7 +3,6 @@
 
 
 
-<!--
 
 <h3 align="center"><i> 💫 About Me: </i></h1>
 
