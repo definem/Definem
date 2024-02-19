@@ -4,7 +4,7 @@
 
 
 
-<h3 align="center"><i> 💫 About Muhammadiyya: </i></h1>
+<h3 align="center"><i> 💫 About <b>Muhammadiyya:</b> </i></h1>
 
 <br>
 
