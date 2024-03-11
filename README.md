@@ -1,8 +1,8 @@
-#  Definem | Developer <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+#  Define 
 
+<!-- Developer <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> -->
 
-
-
+<!--
 
 <h3 align="center"><i> 💫 About <b>Muhammadiyya:</b> </i></h1>
 
@@ -89,3 +89,4 @@
 ![CounterStrike](https://img.shields.io/badge/-CounterStrike-black?style=flat-square&logo=counterstrike)
 ![Pubg](https://img.shields.io/badge/-PUBG-black?style=flat-square&logo=pubg)
 
+-->
